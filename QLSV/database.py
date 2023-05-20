@@ -1,4 +1,4 @@
-path='/Users/macbookair/Documents/BT//QLSV.txt'
+path='/Users/macbookair/Documents/BT/QLSV/QLSV.txt'
 def save(line):
     try:
         f=open(path,'a',encoding='utf8')
